@@ -13,3 +13,5 @@
 
 ## Here is a short GIF of the working site:
 ![](Horiseon.gif)
+
+## [Click here to view the deployed webpage](https://nathanjamis.github.io/Horiseon/)
