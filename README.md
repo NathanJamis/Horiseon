@@ -6,6 +6,9 @@
 >
 > The purpose of this code refactor was to allow for better accessibility and to simplify the overall code.
 
+### Preview of the page
+![preview](Screenshot.png)
+
 ### Some of the major changes are listed below
 - Changed most div elements to more specific semantic elements
 - Added alt tags to images for accessibility
